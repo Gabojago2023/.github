@@ -41,12 +41,12 @@
     <td style="text-align: center;"><a href="https://github.com/kkkk120">김윤경</a></td>
   </tr>
   <tr align="center">
-    <td style="text-align: center;">인프라 / 백엔드 개발 담당(장소, 댓글 API) </td>
+    <td style="text-align: center;">인프라 <br/> 백엔드(장소, 댓글 API) </td>
     <td style="text-align: center;"> <br/> 여행 계획 <br/> 인프라  <br/> 유저, 인증/인가</td>
     <td style="text-align: center;"> </td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;"></td>
-    <td style="text-align: center;"> </td>
+    <td style="text-align: center;">PM <br/> PPT, 기능설명서 제작 참여</td>
   </tr>
   
 </table>
