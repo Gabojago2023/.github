@@ -27,22 +27,22 @@
   <tr align="center">
     <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/59324129" alt="김윤우" ></td>
     <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/50352139" alt="박은정" ></td>
-    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/" alt="양승현" ></td>
-    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/" alt="이채정" ></td>
-    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/" alt="이정민" ></td>
-    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/" alt="김윤경" ></td>
+    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/70054592" alt="양승현" ></td>
+    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/112626357" alt="이채정" ></td>
+    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/62495697" alt="이정민" ></td>
+    <td style="text-align: center;" width="200" height="200"><img src="https://avatars.githubusercontent.com/u/139773566" alt="김윤경" ></td>
   </tr>
   <tr  align="center">
     <td style="text-align: center;" ><a href="https://github.com/yoonwoo-kim">김윤우</a></td>
     <td style="text-align: center;"><a href="https://github.com/Eundms">박은정</a></td>
-    <td style="text-align: center;"><a href="https://github.com/">양승현</a></td>
-    <td style="text-align: center;" ><a href="https://github.com/">이채정</a></td>
-    <td style="text-align: center;"><a href="https://github.com/Eundms">이정민</a></td>
-    <td style="text-align: center;"><a href="https://github.com/">김윤경</a></td>
+    <td style="text-align: center;"><a href="https://github.com/Devyan0">양승현</a></td>
+    <td style="text-align: center;" ><a href="https://github.com/chaejeong-lee">이채정</a></td>
+    <td style="text-align: center;"><a href="https://github.com/jung1234805">이정민</a></td>
+    <td style="text-align: center;"><a href="https://github.com/kkkk120">김윤경</a></td>
   </tr>
   <tr align="center">
     <td style="text-align: center;">인프라 / 백엔드 개발 담당(장소, 댓글 API) </td>
-    <td style="text-align: center;">추억, 알림, <br/> 인프라 <br/> 유저, 인증/인가</td>
+    <td style="text-align: center;"> <br/> 여행 계획 <br/> 인프라  <br/> 유저, 인증/인가</td>
     <td style="text-align: center;"> </td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;"></td>
