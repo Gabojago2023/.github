@@ -78,10 +78,10 @@
   </tr>
   <tr align="center">
     <td style="text-align: center;">인프라 <br/> 백엔드(장소, 댓글 API) </td>
-    <td style="text-align: center;"> <br/> 여행 계획 <br/> 인프라  <br/> 유저, 인증/인가</td>
-    <td style="text-align: center;"> </td>
+    <td style="text-align: center;">여행 계획 <br/> 인프라  <br/> 유저, 인증/인가 </td>
+    <td style="text-align: center;">데이터 모델링 <br/> 백엔드 API 개발 (출석 서비스, 원픽 서비스) </td>
     <td style="text-align: center;"></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;">프론트엔드 <br/> 여행 계획, 메인 페이지</td>
     <td style="text-align: center;">PM <br/> PPT, 기능설명서 제작 참여</td>
   </tr>
   
