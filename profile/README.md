@@ -17,6 +17,11 @@
 <br/>
 
 
+<h2 align="center"><strong>시스템 아키텍쳐</strong></h3>
+<div align="center">
+  <img src="https://github.com/Gabojago2023/.github/assets/70054592/225b92b0-e8e0-4e30-92f6-72e474a53360"/>
+</div>
+
 <h2 align="center"><strong>주요 기능</strong></h3>
 <h3>핵심 기능</h3>
 <ul>
