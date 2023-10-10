@@ -8,24 +8,24 @@
     </a>
   </p>
 </div>
-<br/>
 
-### 🧷 프론트엔드
-
+<h3 align="center">🧷 프론트엔드 </h3>
+<div align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
-
-**Language |** Javascript
+</div>
+<!--**Language |** Javascript
 
 **Framework |** React
 
 **Engine |** Node 
 
-**Library |**
+**Library |**-->
 
-### 🧷 백엔드
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<h3 align="center">🧷 백엔드</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></div>
 
-**Language |** Java 17
+<!--**Language |** Java 17
 
 **Framework |** Spring Boot 2.7.12
 
@@ -35,7 +35,7 @@
 
 **Build Tool |** Gradle
 
-**Test |** Junit 5.8.2, Mockito 4.5.1
+**Test |** Junit 5.8.2, Mockito 4.5.1-->
 
 
 
