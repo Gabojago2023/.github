@@ -1,20 +1,42 @@
 <h1 align="center"><strong>Onepick</strong></h1>
   <p align="center">
-    <strong><!--TODO: 표어 ex- Onepick 단 하나의 장소를 뽑기--></strong>
+    <strong>내가 선택한 단 하나의 장소 : Onepick</strong>
     <br />
     <!--참고 : https://ileriayo.github.io/markdown-badges/-->
-    <div>
-        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <br/>
-    </div>
-    <div>
-      <!--TODO:  Onepick 프론트 기술 스택-->
-    </div>
+    <a href="http://one-pick-go.com/">
+    >> one-pick-go.com
+    </a>
   </p>
 </div>
 <br/>
+
+### 🧷 프론트엔드
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
+
+**Language |** Javascript
+
+**Framework |** React
+
+**Engine |** Node 
+
+**Library |**
+
+### 🧷 백엔드
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+**Language |** Java 17
+
+**Framework |** Spring Boot 2.7.12
+
+**Data(RDBMS) |** Spring-Data-JPA 2.7.14, MySQL 8.0
+
+**Cache |** Redis 2.7.14
+
+**Build Tool |** Gradle
+
+**Test |** Junit 5.8.2, Mockito 4.5.1
+
 
 
 <h2 align="center"><strong>시스템 아키텍쳐</strong></h3>
