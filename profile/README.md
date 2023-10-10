@@ -14,11 +14,8 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
 </div>
 <!--**Language |** Javascript
-
 **Framework |** React
-
 **Engine |** Node 
-
 **Library |**-->
 
 <h3 align="center">🧷 백엔드</h3>
